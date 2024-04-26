@@ -1,4 +1,4 @@
-# Frontal_maintanence_analysis
+# Frontal maintanence analysis
 Analysis for paper "Frontal Maintenance in Submesoscale Flows"
 
 This repository contains two notebooks that will reproduce the figures in the paper "Frontal Maintenance in Submesoscale Flows" by Robert Hetland, Lixin Qu, and Kyle Hinson, submitted to the Journal of Physical oceanography.
